@@ -1,6 +1,6 @@
 ### <div align="center" style="margin-left: 10px;">Hi there 👋</div>
 
- #### <div align="center" style="margin-left: 10px;">I am currently a student pursuing a BS in Computer Engineering at California State University - Sacramento </div>
+ #### <div align="center" style="margin-left: 10px;">I am currently a student pursuing a B.S. in Computer Engineering at California State University - Sacramento </div>
 
  <div align="center" style="margin-left: 10px;"> 🏫 Expected Graduation: Fall 2022</div><br/><br/>
 
