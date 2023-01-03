@@ -1,8 +1,6 @@
 ### <div align="center" style="margin-left: 10px;">Hi there 👋</div>
 
- #### <div align="center" style="margin-left: 10px;">I am currently a student pursuing a B.S. in Computer Engineering at California State University - Sacramento </div>
-
- <div align="center" style="margin-left: 10px;"> 🏫 Expected Graduation: Fall 2022 🏫</div><br/><br/>
+ #### <div align="center" style="margin-left: 10px;">I am currently a Computer Engineering undergrad from California State University - Sacramento </div>
 
 My interests enthusiastically involve a broad range of computer engineering topics with an emphasis on machine learning, neural networks and computer vision.
 
@@ -20,6 +18,8 @@ Areas of Expertise:
 - Object Oriented Programming
 
 - Computer Networking
+
+- Computer Security
 
 - Hardware Troubleshooting and Assembly 
 
