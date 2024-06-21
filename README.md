@@ -1,49 +1,33 @@
-### <div align="center" style="margin-left: 10px;">Hi there 👋</div>
+# <div align="center" style="margin-left: 10px;">Welcome to my Profile 👋</div>
 
- #### <div align="center" style="margin-left: 10px;">I am currently a Computer Engineering undergrad from California State University - Sacramento </div>
+<br />
 
-My interests enthusiastically involve a broad range of computer engineering topics with an emphasis on machine learning, neural networks and computer vision.
+#### <div align="center" style="margin-left: 10px;">I am a Computer Engineering graduate from California State University - Sacramento </div>
 
-<br>
+My interests enthusiastically involve a broad range of computer engineering topics with an emphasis on machine learning, neural networks, and computer vision.
 
-Experience in the following programming languages: 
-C/C++, Python, Java, Assembly, Verilog/VHDL, JavaScript, PHP
+---
 
-Areas of Expertise:
+### Technical Skills
 
-- Machine Learning 
+**Programming Languages:** C, C++, Java, Python, JavaScript, C#, Verilog, VHDL, Assembly, LaTeX
 
-- Machine Vision
+**Software Proficiencies:** PyTorch, OpenCV, React, TypeScript, NodeJS, Redis, Jupyter Notebook, Git
 
-- Object Oriented Programming
+### Areas of Expertise
 
+- Machine Learning
+- Computer Vision
+- Object-Oriented Programming
 - Computer Networking
-
 - Computer Security
-
-- Hardware Troubleshooting and Assembly 
-
+- Hardware Troubleshooting and Assembly
 - Computer Repair and Support
 
-<br>
+---
 
-#### <u>Current projects I am working on: </u><br/>
-<a href="https://github.com/csus-cpe190-191-team2/Team2"> Self Driving RC car using a convolutional neural network (CNN) :robot: </a><br/>
+### <u>Highlighted Projects:</u><br/>
+<a href="https://github.com/csus-cpe190-191-team2/Team2">Self-Driving RC car using a convolutional neural network (CNN) :robot:</a><br/>
 
-
-##### <br/><br/>Additional Repositories:<br/>
-##### <a href="https://bitbucket.org/thermistors/src/src/master/">Thermistors / Weather Tracker</a>
-<!--
-**RyanAboueljoud/RyanAboueljoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Additional Repositories:<br/>
+<a href="https://bitbucket.org/thermistors/src/src/master/">Thermistors / Weather Tracker</a>
